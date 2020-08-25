@@ -6,11 +6,11 @@
   - Estudante de Sitemas de informação na UNIFACISA.
   - Filho de um Deus vivo.
   
- - Dev infos: 
+- Dev infos: 
   - Programador iniciante em Python e Java.
   - Utilizo bastante o Visual Studio Code.
   
- - Redes sociais:
+- Redes sociais:
   - [Instagram](https://www.instagram.com/calebeevangelista/)
   - [Facebook](https://www.facebook.com/calebe.a.evangelista)
   - [Twitter](https://twitter.com/calebe_ae)
