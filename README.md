@@ -8,7 +8,7 @@
   
 - Dev infos: 
   - Programador iniciante em Python e Java.
-  - Utilizo bastante o Visual Studio Code.
+  - Utilizo bastante o Visual Studio Code e Eclipse.
   
 - Redes sociais:
   - [Instagram](https://www.instagram.com/calebeevangelista/)
