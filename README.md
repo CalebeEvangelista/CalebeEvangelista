@@ -1,10 +1,17 @@
 <h2>Seja bem vindo ao meu GitHub <img src="https://i.imgur.com/o1xpsU2.gif" width="50"></h2>
 
 ### Infos <img src="https://media1.giphy.com/media/QxSRmUeq7RUIHLxADc/giphy.gif" width="35"></h2>
-  - Tenho 18 anos.
-  - Nascido em Campina Grande-PB.
-  - Estudante de Sitemas de informação na UNIFACISA.
-  - Filho de um Deus vivo.
+  ```python
+  if user == 'Calebe':
+    Idade = '18 Anos'
+    Cidade = 'Campina Grande-PB'
+    Curso = 'Sistemas de Informação'
+    Periodo = '3 de 9 periodos' 
+    Faculdade = 'UniFacisa'
+    print('Filho de um Deus vivo')
+  else:
+    print('Obrigado por visitar!')
+  ```
 
 ### Garoto De Programa <img src="https://i.imgur.com/qngJv3q.png" width="35"></h2>
   - Garoto de programa é um canal no Youtube destinado para ajudar as pessoas iniciantes em programação ou simplismente intreter quem ja gosta desse incrivel mundo da tecnologia !
