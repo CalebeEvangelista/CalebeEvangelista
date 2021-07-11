@@ -1,10 +1,10 @@
 <h2>Seja bem vindo ao meu GitHub <img src="https://i.imgur.com/o1xpsU2.gif" width="50"></h2>
 
 ### Informações minhas <img src="https://media1.giphy.com/media/QxSRmUeq7RUIHLxADc/giphy.gif" width="35"></h2>
-  - Tenho 18 Anos
+  - Tenho 19 Anos
   - Moro em Campina Grande-PB
   - Faço Sistemas de Informação
-  - Estou no 3 periodo de 9 
+  - Estou no 4 periodo de 9 
   - Estudo na UniFacisa
   - Sou Filho de um Deus vivo
 
