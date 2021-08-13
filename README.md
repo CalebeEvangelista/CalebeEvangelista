@@ -21,7 +21,7 @@
 ### Garoto De Programa <img src="https://i.imgur.com/qngJv3q.png" width="35"></h2>
   - Garoto de programa é um canal no Youtube destinado para ajudar as pessoas iniciantes em programação ou simplismente intréter quem ja gosta desse incrivel mundo da tecnologia !
   - Lá eu posto videos sobre dicas de tecnologias, minha rotina do dia-a-dia, tutoriais, mini-cursos, resolução de exercicios, lives de estudo e videos sobre conserto e manutenção de computadores.
-  - Não deixe de acessar [Clica aqui pra dar uma olhada!](https://www.youtube.com/user/garotodeprogramacalebe)
+  - Não deixe de acessar [Clica aqui pra dar uma olhada!](https://www.youtube.com/channel/UCkXx8-TUjR_OUIzcOqdVDuw)
   
 ```python
 if like-games == YES:
