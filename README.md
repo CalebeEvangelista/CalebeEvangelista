@@ -1,22 +1,19 @@
 <h2>Seja bem vindo ao meu GitHub <img src="https://i.imgur.com/o1xpsU2.gif" width="50"></h2>
 
-<div align="center">
-  <a href="https://github.com/CalebeEvangelista">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calebeevangelista&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-### Minhas informações <img src="https://media1.giphy.com/media/QxSRmUeq7RUIHLxADc/giphy.gif" width="35"></h2>
-  - Tenho 19 Anos
-  - Moro em Campina Grande-PB
-  - Faço Sistemas de Informação
-  - Estou no 4 periodo
-  - Estudo na UniFacisa
-  - Sou Filho de um Deus vivo
+<div>
+    <a href="https://github.com/CalebeEvangelista"></a>
+    <p><img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calebeevangelista&layout=compact&langs_count=7&theme=dracula"/></p>
+    <h3> Minhas informações <img src="https://media1.giphy.com/media/QxSRmUeq7RUIHLxADc/giphy.gif" width="35"></h3>
+    <p>- Tenho 19 Anos</p>
+    <p>- Moro em Campina Grande-PB</p>
+    <p>- Faço Sistemas de Informação</p>
+    <p>- Estudo na UniFacisa</p>
+    
+  </div>
 
   ```python
   if dev == True:
-    Languages = 'Python and Java'
-    WorkOn = 'Visual Studio Code and Eclipse'
+    WorkOn = 'Visual Studio Code'
     ProgramSince = 2018
     FavoriteLanguage = 'Python'
   else:
@@ -37,11 +34,11 @@ if like-games == YES:
   TwitchTv = 'Calebe Evangelista'
 ```
 
-
-  
-### Redes sociais <img src="https://media3.giphy.com/media/PsGZEKpj1pSNy/giphy.gif?cid=ecf05e473afnfpl0zrcse7pz3pycu2yas169awtg6mq0ujml&rid=giphy.gif" width="35"></h2>
-  - [Instagram](https://www.instagram.com/calebeevangelista/)
-  - [Facebook](https://www.facebook.com/calebe.a.evangelista)
-  - [Twitter](https://twitter.com/calebe_ae)
-  - [Youtube](https://www.youtube.com/user/garotodeprogramacalebe)
-  - [Linkedin](https://www.linkedin.com/in/calebeevangelista/)
+<div align="center"> 
+  <a href="https://www.youtube.com/channel/UCkXx8-TUjR_OUIzcOqdVDuw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/calebeevangelista" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/CalebeEvangelista" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/EkJFKUB" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:calebe.leao@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/calebeevangelista" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
