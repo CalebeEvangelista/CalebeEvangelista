@@ -1,5 +1,10 @@
 <h2>Seja bem vindo ao meu GitHub <img src="https://i.imgur.com/o1xpsU2.gif" width="50"></h2>
 
+<div align="center">
+  <a href="https://github.com/CalebeEvangelista">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calebeevangelista&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 ### Minhas informações <img src="https://media1.giphy.com/media/QxSRmUeq7RUIHLxADc/giphy.gif" width="35"></h2>
   - Tenho 19 Anos
   - Moro em Campina Grande-PB
