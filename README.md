@@ -1,4 +1,4 @@
-<h2>Seja bem vindo ao meu GitHub <img src="https://i.imgur.com/o1xpsU2.gif" width="50"></h2>
+<h2>Seja bem vindo ao meu GitHub</h2>
 
 <div>
     <a href="https://github.com/CalebeEvangelista"></a>
@@ -6,8 +6,6 @@
     <h3> Minhas informações <img src="https://media1.giphy.com/media/QxSRmUeq7RUIHLxADc/giphy.gif" width="35"></h3>
     <p>- Tenho 20 Anos</p>
     <p>- Moro em Campina Grande-PB</p>
-    <p>- Faço Sistemas de Informação</p>
-    <p>- Estudo na UniFacisa</p>
     
   </div>
 
