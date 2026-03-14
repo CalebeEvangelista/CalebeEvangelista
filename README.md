@@ -4,41 +4,10 @@
     <a href="https://github.com/CalebeEvangelista"></a>
     <p><img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calebeevangelista&layout=compact&langs_count=7&theme=dracula"/></p>
     <h3> Minhas informações <img src="https://media1.giphy.com/media/QxSRmUeq7RUIHLxADc/giphy.gif" width="35"></h3>
-    <p>- Tenho 21 Anos</p>
+    <p>- Tenho 24 Anos</p>
     <p>- Moro em Campina Grande-PB</p>
     
   </div>
-
-  ```python
-  if dev == True:
-    WorkOn = 'Visual Studio Code'
-    ProgramSince = 2018
-    FavoriteLanguage = 'Python'
-  else:
-    print('Go to games!')
-  ```
-
-```js
-function seAmostrarNoGit() {
-    const dev = true;
-    if (dev) {
-        const workOn = 'Visual Studio Code';
-        const ProgramSince = 2018;
-        const FavoriteLanguage = 'Python';
-        console.log('Trabalho com:', workOn);
-        console.log('Programando desde:', ProgramSince);
-        console.log('Linguagem favorita:', FavoriteLanguage);
-    } else {
-        console.log('Go to games!');
-    }
-}
-seAmostrarNoGit();
-  ```
-  
-### Garoto De Programa <img src="https://i.imgur.com/qngJv3q.png" width="35"></h2>
-  - Garoto de programa é um canal no Youtube destinado para ajudar as pessoas iniciantes em programação ou simplismente intréter quem ja gosta desse incrivel mundo da tecnologia !
-  - Lá eu posto videos sobre dicas de tecnologias, minha rotina do dia-a-dia, tutoriais, mini-cursos, resolução de exercicios, lives de estudo e videos sobre conserto e manutenção de computadores.
-  - Não deixe de acessar [Clica aqui pra dar uma olhada!](https://www.youtube.com/channel/UCkXx8-TUjR_OUIzcOqdVDuw)
   
 ```python
 if like-games == YES:
